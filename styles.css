@@ -1,0 +1,37 @@
+.height{
+  height: 350px;
+  background-color:grey;
+  background: rgba(177, 185, 201, 0.8);
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  margin-top: 20px;
+}
+
+body{
+  margin: 20px;
+  background-color:#1954d4;
+  color: white;
+}
+
+h1{
+  font-style: italic;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 800%;
+}
+
+h2{
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  border-radius: 15px;
+  font-style: italic;
+  font-size: 330%;
+  padding:10px;
+  margin: 20px;
+  text-align: center;
+}
+p{
+  padding: 5px;
+}
