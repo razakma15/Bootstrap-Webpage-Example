@@ -1,4 +1,5 @@
 .height{
+  overflow: scroll;
   height: 350px;
   background-color:grey;
   background: rgba(177, 185, 201, 0.8);
